@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="facades.FacadeExampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-11T08:52:03" hostname="698ac6ab45db" time="0.177">
+  <properties/>
+  <testcase name="testAFacadeMethod()" classname="facades.FacadeExampleTest" time="0.177"/>
+  <system-out><![CDATA[Using the TEST database via persistence-unit --> puTest 
+[EL Info]: 2020-11-11 08:52:02.721--ServerSession(677363349)--EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
