@@ -1,4 +1,0 @@
-rest/RenameMeResourceTest.java
- rest.RenameMeResourceTest
-facades/FacadeExampleTest.java
- facades.FacadeExampleTest
